@@ -45,7 +45,7 @@
 
 <h3 align="left">📊  LeetCode Stats</h3>
 <div align="center">
-  <img width="500" src="https://leetcard.jacoblin.cool/DonnieOfficial?theme=catppuccinMocha&font=Poppins&ext=activity" alt="LeetCode Stats" />
+  <img width="500" src="https://leetcard.jacoblin.cool/dimytoday?theme=catppuccinMocha&font=Poppins&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ###
